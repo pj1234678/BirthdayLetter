@@ -1,5 +1,5 @@
 # BirthdayLetter
-BirthdayLetter - Wii - Quality of Life Letterbomb Mod.
+Offline - Multiplatform - Wii - Quality of Life Letterbomb Mod.
 
 BirthdayLetter is a mod for a previous exploit LetterBomb.
 LetterBomb has served the community for a long time,
