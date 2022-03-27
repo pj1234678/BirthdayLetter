@@ -28,10 +28,17 @@ NONE
 How to use:
 
 1.Run BirthdayLetter.py or BirthdayLetter.exe
+
 2.Enter your Wii's MAC address.
+
 3.Select Wii Region.
+
 4.Choose to Bundle with Hackmii.
+
 5.Extract the generated BirthdayLetter.zip to the root of your SD Card.
+
 6.Set your Wii's time to November 19, 2006.
+
 7.Go to your Message Board on the wii's Menu in the bottom right of the screen.
+
 8.Click the Letterbomb with SD Card.
