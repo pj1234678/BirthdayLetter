@@ -11,7 +11,9 @@ Letterbomb will stop working for a lot of people if the main website goes down o
 BirthdayLetter has the following fixes to address these concerns:
 
 1.Static Date of November 19, 2006 (Wii's NA official Release Date).
+
 2.The Python script attached can be used offline and cross platform. Even on a Raspberry pi.
+
 3.Updated the python script to be python 3.9 compatible.
 
 I do not take credit for this exploit, only the offline ability and static time idea.
