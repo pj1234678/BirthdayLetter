@@ -1,44 +1,43 @@
 # BirthdayLetter
-Offline - Multiplatform - Wii - Quality of Life Letterbomb Mod.
 
-BirthdayLetter is a mod for a previous exploit LetterBomb.
-LetterBomb has served the community for a long time,
-However there are some inherit problems down the road with the software.
-Letterbomb will cease to work once the date on the webserver of please.hackmii.com gets past 12/31/2035
-Letterbomb will stop working for a lot of people if the main website goes down or becomes unreliable.
+BirthdayLetter is an enhanced version of the LetterBomb exploit, designed to provide a seamless and reliable experience for the Wii community. Unlike its predecessor, BirthdayLetter addresses inherent issues related to server-dependent functionality and ensures a lasting solution for users.
 
+## Key Features
 
-BirthdayLetter has the following fixes to address these concerns:
+- **Static Date:** BirthdayLetter adopts a fixed date of November 19, 2006, aligning with the Wii's official release date in North America. This eliminates concerns about the exploit ceasing to function due to server date limitations.
 
-1.Static Date of November 19, 2006 (Wii's NA official Release Date).
+- **Offline and Cross-Platform:** The included Python script allows for offline usage across multiple platforms, including compatibility with devices like the Raspberry Pi. This feature enhances accessibility and flexibility for users.
 
-2.The Python script attached can be used offline and cross platform. Even on a Raspberry pi.
+- **Python 3.9 Compatibility:** The Python script has been updated to ensure compatibility with Python 3.9, providing users with a modern and stable environment.
 
-3.Updated the python script to be python 3.9 compatible.
+## Credits
 
-I do not take credit for this exploit, only the offline ability and static time idea.
+Credit for the original exploit goes to the creators of LetterBomb. BirthdayLetter acknowledges this contribution while focusing on improving offline capabilities and introducing the static time concept.
 
-Check Release Section for Exe's and Python scripts.
+## Release Section
 
-Dependencies:
+Visit the Release Section for executable files (Exe's) and Python scripts to make the most of BirthdayLetter.
 
-NONE
+## Dependencies
 
+No external dependencies are required to run BirthdayLetter, ensuring a hassle-free experience for users.
 
-How to use:
+## How to Use
 
-1.Run BirthdayLetter.py or BirthdayLetter.exe
+1. Run BirthdayLetter.py or BirthdayLetter.exe.
 
-2.Enter your Wii's MAC address.
+2. Enter your Wii's MAC address.
 
-3.Select Wii Region.
+3. Select your Wii Region.
 
-4.Choose to Bundle with Hackmii.
+4. Choose to bundle with Hackmii if desired.
 
-5.Extract the generated BirthdayLetter.zip to the root of your SD Card.
+5. Extract the generated BirthdayLetter.zip to the root of your SD Card.
 
-6.Set your Wii's time to November 19, 2006.
+6. Set your Wii's time to November 19, 2006.
 
-7.Go to your Message Board on the wii's Menu in the bottom right of the screen.
+7. Navigate to your Message Board on the Wii's Menu in the bottom right of the screen.
 
-8.Click the Letterbomb with SD Card.
+8. Click the Letterbomb with SD Card to initiate the exploit.
+
+Enjoy a seamless and reliable Wii experience with BirthdayLetter!
