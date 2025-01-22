@@ -1,4 +1,4 @@
-# BirthdayLetter - Bannerbomb Rewritten in Rust
+# BirthdayLetter - Letterbomb Rewrite in Rust
 
 BirthdayLetter is an enhanced version of the LetterBomb exploit, designed to provide a seamless and reliable experience for the Wii community. Unlike its predecessor, BirthdayLetter addresses inherent issues related to server-dependent functionality and ensures a lasting solution for users.
 
