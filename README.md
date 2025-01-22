@@ -1,4 +1,4 @@
-# BirthdayLetter - Rewritten in Rust
+# BirthdayLetter - Bannerbomb Rewritten in Rust
 
 BirthdayLetter is an enhanced version of the LetterBomb exploit, designed to provide a seamless and reliable experience for the Wii community. Unlike its predecessor, BirthdayLetter addresses inherent issues related to server-dependent functionality and ensures a lasting solution for users.
 
@@ -7,7 +7,6 @@ BirthdayLetter is an enhanced version of the LetterBomb exploit, designed to pro
 - **Static Date:** BirthdayLetter adopts a fixed date of November 19, 2006, aligning with the Wii's official release date in North America. This eliminates concerns about the exploit ceasing to function due to server date limitations.
 
 - **Offline and Cross-Platform:** The included Python script allows for offline usage across multiple platforms, including compatibility with devices like the Raspberry Pi. This feature enhances accessibility and flexibility for users.
-
 
 ## Credits
 
@@ -39,4 +38,4 @@ No external dependencies are required to run BirthdayLetter, ensuring a hassle-f
 
 8. Click the Letterbomb with SD Card to initiate the exploit.
 
-Enjoy a safe and seamless and reliable Wii experience with BirthdayLetter!
+
