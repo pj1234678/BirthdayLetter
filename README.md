@@ -1,4 +1,4 @@
-# BirthdayLetter
+# BirthdayLetter - Rewritten in Rust
 
 BirthdayLetter is an enhanced version of the LetterBomb exploit, designed to provide a seamless and reliable experience for the Wii community. Unlike its predecessor, BirthdayLetter addresses inherent issues related to server-dependent functionality and ensures a lasting solution for users.
 
@@ -8,7 +8,6 @@ BirthdayLetter is an enhanced version of the LetterBomb exploit, designed to pro
 
 - **Offline and Cross-Platform:** The included Python script allows for offline usage across multiple platforms, including compatibility with devices like the Raspberry Pi. This feature enhances accessibility and flexibility for users.
 
-- **Python 3.9 Compatibility:** The Python script has been updated to ensure compatibility with Python 3.9, providing users with a modern and stable environment.
 
 ## Credits
 
@@ -24,7 +23,7 @@ No external dependencies are required to run BirthdayLetter, ensuring a hassle-f
 
 ## How to Use
 
-1. Run BirthdayLetter.py or BirthdayLetter.exe.
+1. Run BirthdayLetter.exe or compile using rust cargo build.
 
 2. Enter your Wii's MAC address.
 
@@ -40,4 +39,4 @@ No external dependencies are required to run BirthdayLetter, ensuring a hassle-f
 
 8. Click the Letterbomb with SD Card to initiate the exploit.
 
-Enjoy a seamless and reliable Wii experience with BirthdayLetter!
+Enjoy a safe and seamless and reliable Wii experience with BirthdayLetter!
